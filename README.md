@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/alfredo" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alfredo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alfredo-supanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredo-supanta" height="30" width="40" /></a>
-<a href= "https://instagram.com/alfredo.marceloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/instagram.svg" alt="alfredo.marceloo" height="30" width="40" /></a>
+<a href= "https://instagram.com/alfredo.marceloo" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alfredo.marceloo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>

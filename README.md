@@ -1,5 +1,5 @@
 <h1 align="center">Hola, bienvenido👋, mi nombre es Alfredo Supanta</h1>
-<h3 align="center">Soy desarrollador Full Stack Jr actualmente e Ingeniero en Administración de Empresas</h3>
+<h3 align="center">Soy desarrollador Full Stack Jr e Ingeniero en Administración de Empresas</h3>
 
 - 🔭 estoy finalizando mi proyecto personal [Agency Perfect](https://github.com/AlfredoMarcelo/individualproject.git)
 

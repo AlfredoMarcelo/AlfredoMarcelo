@@ -2,7 +2,7 @@
 <h3 align="center">Soy desarrollador Full Stack Jr e Ingeniero en Administración de Empresas</h3>
 
 - 🔭 estoy finalizando mi proyecto personal [Agency Perfect](https://github.com/AlfredoMarcelo/individualproject.git)
-- 👨‍💻 actualmente estoy aprendiendo  **Java, Spring Framework, Spring Boot, Angular**
+- 👨‍💻 actualmente estoy aprendiendo  **Java, Spring Framework, Spring Boot**
 - 📫 Cómo contactarme **alfredo.supanta.26@gmail.com**
 - ⚡😎 Bonus sobre mi: **Me gustan los deportes de combate, fútbol, mi personaje favorito Batman 🦇**
 
